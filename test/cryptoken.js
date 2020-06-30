@@ -2,7 +2,7 @@
 
 var MyToken = artifacts.require("cryptoken");
 
-contract('MyToken', function(accounts) {
+contract('cryptoken', function(accounts) {
     var tokeninstance;
 
     it('initializes contract with correct values', function() {
@@ -29,7 +29,7 @@ contract('MyToken', function(accounts) {
         });
     });
 
-    it('transfers taken ownership', function() {
+    it('transfers token ownership', function() {
         return MyToken.deployed().then(function(instance) {
             tokeninstance = instance;
             return tokeninstance.transfer.call(accounts[1], 9999999999);

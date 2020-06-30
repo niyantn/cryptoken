@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.4.20;
+pragma solidity >=0.5.0;
 
 contract cryptoken{
     uint256 private _totalSupply;
