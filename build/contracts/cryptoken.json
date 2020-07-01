@@ -6889,12 +6889,12 @@
         }
       },
       "links": {},
-      "address": "0x95e814856181fb78024cdeb304DdB1F9005afF80",
-      "transactionHash": "0xc76c23a496736b0305934cf9b9a46e061e0e4e251fe050b52038617333da9175"
+      "address": "0xF38e989E134F390636120a50e8d3270B31bfD0B4",
+      "transactionHash": "0x61b4af18fe98ab6294e799b95916c3561e1a6258c1f13f5b847e660636d9047b"
     }
   },
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-06-30T01:32:45.386Z",
+  "updatedAt": "2020-07-01T19:41:26.711Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
